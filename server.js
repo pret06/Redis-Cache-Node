@@ -48,4 +48,4 @@ async function testRedisConnection(){
     }
 }
 
-testRedisConnection()
+// testRedisConnection()

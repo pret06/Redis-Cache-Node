@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node data-structure.js"
+    "start": "node pub-sub.js"
   },
   "repository": {
     "type": "git",
